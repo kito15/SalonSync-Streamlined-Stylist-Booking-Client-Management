@@ -1,0 +1,25 @@
+
+body{
+    min-height:100vh;
+    background-image:url("salon-1.jpg");
+    background-size:cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+}
+.container{
+    background-color: rgba(77, 74, 74, 0.822);
+}
+.header h2{
+    text-align: center;
+    color:rgb(110, 250, 171);
+    font-style:italic;
+    font-size: 40px;
+}
+form{
+    color:white;
+    font-size: 20px;
+    font-style: inherit;
+    font-weight: bold;
+}
