@@ -1,5 +1,6 @@
 # salon-website
 The art of hair website allows stylists to make appointments, place orders, and create accounts for new clients with an associated stylist id, which matches to a specify stylist.
+\n
 Demo login credentials:
   Stylist 1:
     Amaal
