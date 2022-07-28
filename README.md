@@ -5,6 +5,7 @@ Demo login credentials:
 
 
   Stylist 1:
+  
     Amaal
     
     Milica
@@ -18,6 +19,7 @@ Demo login credentials:
     Amiica@6
     
   Stylist 2:
+  
     Charlie
     
     Brown
