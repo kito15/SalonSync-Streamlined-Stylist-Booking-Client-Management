@@ -1,6 +1,5 @@
 <html>
     <head>
-      <title>ASSIGMENT 4</title>
       <link rel="stylesheet" type="text/css" href="style-4.css">
     </script>
    
